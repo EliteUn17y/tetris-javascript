@@ -1,17 +1,48 @@
-# Tetris App - JavaScript
+<div align='center'>
 
-A modern implementation of the classic Tetris game, built with JavaScript, powered by Vite, and deployed on Vercel.
+  [![Deploy][deploy-active]](/) 
+  [![Tests][tests-passed]](/) 
+  [![Buy me a coffee][buy-me-a-coffee]][buy-me-a-coffee-link]
 
-## Table of Contents
+</div>
 
-  - [Features](#features)
-  - [Demo](#demo)
-  - [Controls](#controls)
-  - [Technologies Used](#technologies-used)
-  - [Installation and Setup](#installation-and-setup)
-  - [Deployment](#deployment)
-  - [Contribute](#contribute)
-  - [License](#license)
+<div align='center'>
+  <a href='/'>
+    <img
+      src='/images/screenshot.png'
+      alt='Screenshot of the app'
+    />
+  </a>
+</div>
+
+<div align='center'>
+  <h1>Tetris App - JavaScript</h1>
+</div>
+
+<div align='center'>
+  
+  [![JavaScript][javascript]][javascript-link]
+  [![Vite][vite]][vite-link]
+  [![Vercel][vercel]][vercel-link]
+
+</div>
+
+<div align='center'>
+  A modern implementation of the classic Tetris game, built with JavaScript, powered by Vite, and deployed on Vercel.
+
+  [Demo](https://tetris-javascript-wrujel.vercel.app/) · [Report issue](/issues) · [Suggest something](/issues)
+</div>
+
+### Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Controls](#controls)
+- [Technologies Used](#technologies-used)
+- [Installation and Setup](#installation-and-setup)
+- [Deployment](#deployment)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Features
 
@@ -86,3 +117,44 @@ This project is open-source and available under the MIT License. Feel free to us
 **Made with ❤️ by [wrujel](https://github.com/wrujel)**.
 
 ---
+
+
+<!-- Badges -->
+[deploy-active]: https://img.shields.io/badge/Deploy-Active-success?style=for-the-badge&logoColor=white
+[tests-passed]: https://img.shields.io/badge/Test-Passed-success?style=for-the-badge&color=green
+[buy-me-a-coffee]: https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee
+[nextjs]: https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js
+[typescript]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
+[tailwindcss]: https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[react]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[lodash]: https://img.shields.io/badge/Lodash-gray?style=for-the-badge&logo=lodash
+[next-auth]: https://img.shields.io/badge/Next--Auth-black?style=for-the-badge&logo=next.js
+[prisma]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[axios]: https://img.shields.io/badge/Axios-56A7F7?style=for-the-badge&logo=axios&logoColor=white
+[react-icons]: https://img.shields.io/badge/React--Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[swr]: https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=next.js
+[zustand]: https://img.shields.io/badge/Zustand-gray?style=for-the-badge&logo=npm
+[react-player]: https://img.shields.io/badge/React--Player-gray?style=for-the-badge&logo=npm
+[mongodb]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+<!-- Badges links -->
+[buy-me-a-coffee-link]: https://www.buymeacoffee.com/wrujel
+[nextjs-link]: https://nextjs.org/
+[typescript-link]: https://www.typescriptlang.org/
+[tailwindcss-link]: https://tailwindcss.com/
+[react-link]: https://reactjs.org/
+[lodash-link]: https://lodash.com/
+[next-auth-link]: https://next-auth.js.org/
+[prisma-link]: https://www.prisma.io/
+[axios-link]: https://axios-http.com/
+[react-icons-link]: https://react-icons.github.io/react-icons/
+[swr-link]: https://swr.vercel.app/
+[zustand-link]: https://zustand.surge.sh/
+[react-player-link]: https://www.npmjs.com/package/react-player
+[mongodb-link]: https://www.mongodb.com/
+[vercel-link]: https://vercel.com/
+[vite-link]: https://vitejs.dev/
+[javascript-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
