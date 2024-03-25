@@ -116,7 +116,6 @@ This project is open-source and available under the MIT License. Feel free to us
 
 **Made with ❤️ by [wrujel](https://github.com/wrujel)**.
 
----
 
 
 <!-- Badges -->
