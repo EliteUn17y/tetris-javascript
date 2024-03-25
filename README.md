@@ -52,10 +52,6 @@
 - Smooth animations and sound effects.
 - Dark mode for night-time playing.
 
-## Demo
-
-Experience the game here: [Tetris App Demo](https://tetris-javascript-wrujel.vercel.app/)
-
 ## Controls
 
 - **Arrow Keys**:
@@ -103,6 +99,10 @@ This project is deployed on Vercel. If you wish to deploy your own version:
 2. [Set up Vercel](https://vercel.com/) and link your GitHub account.
 3. Create a new project on Vercel and link it to your Tetris app repository.
 4. Vercel will automatically build and deploy the app. You can then access your live site from the provided URL.
+
+## Demo
+
+Experience the game here: [Tetris App Demo](https://tetris-javascript-wrujel.vercel.app/)
 
 ## Contribute
 
