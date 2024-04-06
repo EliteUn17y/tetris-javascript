@@ -16,7 +16,6 @@
     <img
       src='/images/screenshot.png'
       alt='Screenshot of the app'
-      width='100%'
     />
   </a>
 </div>
