@@ -5,9 +5,9 @@
 
 <div align='center'>
 
+  [![demo][demo]][demo-link]
   [![build][build]](/)
   [![test][tests-passed]](/)
-  [![demo][demo]][demo-link]
 
 </div>
 
